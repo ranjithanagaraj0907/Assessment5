@@ -1,0 +1,150 @@
+.main{
+    border: solid;
+    background-color: gray;
+}
+.first{
+ 
+   
+    width: 300px;
+    height: 150px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    background-color:white;
+    border-radius: 20px;
+    color:brown ;
+   margin-left: 500px;
+    text-align: center;
+    box-shadow: 5px 10px olive;
+    text-shadow: 2px 2px ;
+}
+hr{
+    color: white;
+}
+.main1{
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    background-color:white;
+    border-radius: 20px;
+    color:blue;
+   margin-left: 4px;
+    text-align: center;
+    box-shadow: 5px 10px olive;
+    text-shadow: 2px 2px ;
+}
+
+
+.main2{
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    width: 300px;
+    height: 200px;
+    margin-left: 1000px;
+    padding: 20px;
+    box-shadow: 5px 10px olive;
+    text-shadow: 2px 2px ;
+}
+
+
+.main3{
+    position: absolute;
+    width: 300px;
+    height: 170px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    background-color:white;
+    border-radius: 20px;
+    color:blue;
+   margin-left: 4px;
+    text-align: center;
+    box-shadow: 5px 10px olive;
+    text-shadow: 2px 2px ;
+}
+
+.main4{
+    border-style: solid;
+    border-width: 8px;
+    border-color: red;
+    width: 300px;
+    height: 170px;
+    margin-left: 1000px;
+    padding: 20px;
+    color: blue;
+    text-shadow: 2px 2px ;
+    margin-top: 10px;
+    box-shadow: 5px 10px olive;
+
+}
+.root{
+    border: yellowgreen solid 10px;
+    
+}
+.A{
+    color: white;
+    background-color: forestgreen;
+    padding: 10px;
+    text-align: center;
+    border: 8px solid orchid;
+   
+}
+.B{
+    
+    color: white;
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    margin-left: 100px;
+   
+}
+.C{
+    color: white;
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    margin-left: 20px;
+   
+}
+.D{
+    color: white;
+    background-color: yellowgreen;
+    padding: 10px;
+    text-align: center;
+    width: 700px;
+    height: 170px;
+    margin-left: 140px;
+    margin-top: 70px;
+   
+}
+.E{
+    position: fixed;
+    color: white;
+    background-color: seagreen;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+   margin-left: 400px;
+}
+   .main5{
+       
+       padding:200px  200px 400px 400px;
+     
+       
+   }
+   .second{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 120px;
+    width: 516px;
+    margin: 5px;
+   }
